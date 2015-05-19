@@ -1,0 +1,3 @@
+[26-Aug-2014 11:19:25 UTC] PHP Warning:  include(xmlrpc.inc): failed to open stream: No such file or directory in /home/ravi/public_html/contestzilla/wp-content/plugins/RunClickPlugin/xmlrpc-2.0/demo/vardemo.php on line 5
+[26-Aug-2014 11:19:25 UTC] PHP Warning:  include(): Failed opening 'xmlrpc.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ravi/public_html/contestzilla/wp-content/plugins/RunClickPlugin/xmlrpc-2.0/demo/vardemo.php on line 5
+[26-Aug-2014 11:19:25 UTC] PHP Fatal error:  Class 'xmlrpcmsg' not found in /home/ravi/public_html/contestzilla/wp-content/plugins/RunClickPlugin/xmlrpc-2.0/demo/vardemo.php on line 7
